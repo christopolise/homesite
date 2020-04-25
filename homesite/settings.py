@@ -23,7 +23,7 @@ BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 SECRET_KEY = 'r6nu%ccjs7yeed0f&q@=@r8@v+=i6&57v-=r@gomck+5i)(89)'
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = True
+DEBUG = False
 
 ALLOWED_HOSTS = ['kitras.io','0.0.0.0','localhost']
 
